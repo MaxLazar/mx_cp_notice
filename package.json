@@ -4,7 +4,7 @@
         {
             "name": "mx_cp_notice",
             "label": "MX CP Notice",
-            "version": "0.6",
+            "version": "0.9",
             "types": [
                 "extension"
             ],
