@@ -25,7 +25,7 @@ This is Communite Edition (CE) add-on.
 
 # Contributing To MX CP Notice CE
 
-Your participation to Yii 2 development is very welcome!
+Your participation to MX CP Notice CE development is very welcome!
 
 You may participate in the following ways:
 
