@@ -37,4 +37,4 @@ Please submit a merge request after you finish development.
 
 # License 
 
-The MX CP Notice CE is open-sourced software licensed under the MIT license
+The MX CP Notice CE is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
