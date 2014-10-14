@@ -2,7 +2,7 @@
 
 CP Notice is an extension to make ExpressionEngine CP Notification more visible and user friendly.
 It also simplifies the process of finding errors on the Publish Page. Additional requests are welcome!
-![image](/mx_cp_notes_publish_page.png)
+![image](https://raw.githubusercontent.com/MaxLazar/mx_cp_notice/master/images/mx_cp_notes_publish_page.png)
 
 # Installation
 * Download the latest version of MX CP Notice and extract the .zip to your desktop.
@@ -14,7 +14,7 @@ It also simplifies the process of finding errors on the Publish Page. Additional
 * Enable all the MX Select Plus components
 
 # Settings
-![image](http://cl.ly/image/1g0r3u1y0y3J/Screenshot%20Oct%2013%2016.55.22.png)
+![image](https://raw.githubusercontent.com/MaxLazar/mx_cp_notice/master/images/mx_cp_notes_settings.png)
 Messaging theme
 Location
 Show Close Button
